@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pepowise
 - 👀 I’m interested in system intergration
-- 🌱 I’m currently learning Ansible, Bash and Powershell
+- 🌱 I’m currently learning Terraform
 - 💞️ I’m looking to collaborate on that
 - 📫 How to reach me: As this is a work account, find me in Slack
 
